@@ -1,0 +1,45 @@
+h2 {
+	color:#EA4335;
+
+}
+
+body {
+	margin: 0px;
+	color: #000000;
+	font-family: 'Roboto', sans-serif;
+	background-color: #F1F1F1;
+}
+
+h1{
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+  font-size: 100px;
+}
+p{
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.hero{
+  border: 1px solid black;
+  margin: 50px 20px 50px 20px;
+  padding: 50px;
+  background-image: url("newyork.jpg");
+  background-position: center top;
+}
+
+.menu{
+	border radius: 50%;
+}
+
+img {
+	width: 200px
+}
+
+#my-footer a {
+  color: lightgrey;
+}
+#my-footer a:hover {
+  color: white;
+}
